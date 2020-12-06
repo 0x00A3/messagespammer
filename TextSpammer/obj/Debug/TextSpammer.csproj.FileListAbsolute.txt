@@ -1,0 +1,10 @@
+C:\Users\wwwge\source\repos\TextSpammer\TextSpammer\bin\Debug\TextSpammer.exe.config
+C:\Users\wwwge\source\repos\TextSpammer\TextSpammer\bin\Debug\TextSpammer.exe
+C:\Users\wwwge\source\repos\TextSpammer\TextSpammer\bin\Debug\TextSpammer.pdb
+C:\Users\wwwge\source\repos\TextSpammer\TextSpammer\obj\Debug\TextSpammer.csprojAssemblyReference.cache
+C:\Users\wwwge\source\repos\TextSpammer\TextSpammer\obj\Debug\TextSpammer.Form1.resources
+C:\Users\wwwge\source\repos\TextSpammer\TextSpammer\obj\Debug\TextSpammer.Properties.Resources.resources
+C:\Users\wwwge\source\repos\TextSpammer\TextSpammer\obj\Debug\TextSpammer.csproj.GenerateResource.cache
+C:\Users\wwwge\source\repos\TextSpammer\TextSpammer\obj\Debug\TextSpammer.csproj.CoreCompileInputs.cache
+C:\Users\wwwge\source\repos\TextSpammer\TextSpammer\obj\Debug\TextSpammer.exe
+C:\Users\wwwge\source\repos\TextSpammer\TextSpammer\obj\Debug\TextSpammer.pdb
